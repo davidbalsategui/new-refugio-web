@@ -1,0 +1,1 @@
+import RestaurantInfo from "@/components/RestaurantInfo";
